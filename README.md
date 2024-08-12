@@ -1,0 +1,1 @@
+This is mock project 1 on Cloud Developer Course in Udacity.
